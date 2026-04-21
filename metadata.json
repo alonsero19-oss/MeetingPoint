@@ -1,0 +1,7 @@
+{
+  "name": "MeetingPoint",
+  "description": "Find the perfect meeting spot for your group. Calculates the central point between friends and suggests the best restaurants using AI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
